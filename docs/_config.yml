@@ -1,5 +1,5 @@
 title: "Dun's Mail Exchanger"
-description: 'Семейный почтовый обменник.'
+description: 'Семейный почтовый обменник'
 
 defaults:
   - scope:
